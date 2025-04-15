@@ -18,7 +18,7 @@
         <li><a href="#login">Login</a></li>
         <li><a href="#account-registration">Account Registration</a></li>
         <li><a href="#food-menu">Food Menu</a></li>
-        <li><a href="#cart">Cart/a></li>
+        <li><a href="#cart">Cart</a></li>
         <li><a href="#my-orders">My Orders</a></li>
       </ul>
     </li>
